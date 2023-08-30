@@ -1,2 +1,2 @@
-# Data-Analytics-Projects
-DA Project repo
+# Telecom customer churn prediction
+
